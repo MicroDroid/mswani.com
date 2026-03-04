@@ -1,0 +1,5 @@
+{
+	"editor.formatOnSave": true,
+	"html.autoCreateQuotes": false,
+	"html.autoClosingTags": true
+}
